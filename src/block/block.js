@@ -31,7 +31,7 @@ registerBlockType( 'cgb/block-my-block', {
 	icon: 'shield', // Block icon from Dashicons → https://developer.wordpress.org/resource/dashicons/.
 	category: 'common', // Block category — Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
 	keywords: [
-		__( 'my-block — CGB Block' ),
+		__( 'TestBlock— CGB Block' ),
 		__( 'CGB Example' ),
 		__( 'create-guten-block' ),
 	],
