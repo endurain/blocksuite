@@ -1,4 +1,4 @@
-This project bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
+This project bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block)
 
 Below you will find some information on how to run scripts.
 
